@@ -1,6 +1,8 @@
 # moguflutter
 
-A new Flutter project.
+Is a template interactive with examples of use to container, actions for user in the app and order columns in the container.
+
+Easy examples in Flutter (Dart) for present function of the widgets flutter (dart).
 
 ## Getting Started
 
